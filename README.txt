@@ -30,3 +30,4 @@
 
 Made only "Andrey Corporation®".
 Ссылка на мой GitHub: https://github.com/AndryMaster/-PhotoEditor_YL.git
+Ссылка на ЯндексДиск: https://disk.yandex.ru/d/LajK2qw-DwDESA
