@@ -1,0 +1,21 @@
+datetime;type_mes;message
+---------------------------;-------;--------------------------------------------
+2021-Nov-14 14:24:43.028359;Message;Start program
+2021-Nov-14 14:24:43.059611;Message;DB find paths
+2021-Nov-14 14:24:43.059611;Message;Create SearchFileWidget
+2021-Nov-14 14:24:58.112517;Message;User select file name
+2021-Nov-14 14:24:58.138227;Message;DB save path
+2021-Nov-14 14:24:58.206583;Message;Get image path: <C:/PycharmProjects/PhotoEditor/Тестовые фото/image1.jpg>
+2021-Nov-14 14:24:58.239591;Message;Image was updated
+2021-Nov-14 14:24:58.253594;Message;Image was updated
+2021-Nov-14 14:28:40.455384;Message;Image was updated
+2021-Nov-14 14:28:40.466314;Message;Open: Image Crop Window
+2021-Nov-14 14:28:47.672048;Message;User finished drawing the crop rectangle
+2021-Nov-14 14:28:48.359593;Message;User finished drawing the crop rectangle
+2021-Nov-14 14:28:54.530881;Message;User finished drawing the crop rectangle
+2021-Nov-14 14:29:36.370703;Message;Closing: Image Crop Window
+2021-Nov-14 14:29:36.370703;Message;User don`t crop image
+2021-Nov-14 14:29:40.673598;Message;DB find paths
+2021-Nov-14 14:29:40.676600;Message;Create SearchFileWidget
+2021-Nov-14 14:35:30.444555;Message;DB find paths
+2021-Nov-14 14:35:36.217129;Message;DB delete all paths

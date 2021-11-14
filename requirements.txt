@@ -1,0 +1,4 @@
+PIL ~= 8.4.0
+Pillow ~= 8.4.0
+PyQt5 ~= 5.15.5
+PyQt5-stubs ~= 5.15.2
